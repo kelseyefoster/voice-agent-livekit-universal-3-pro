@@ -51,7 +51,7 @@ LiveKit Cloud ──► AssemblyAI Universal-3 Pro Streaming (speech-to-text)
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/AssemblyAI/voice-agent-livekit-universal-3-pro
+git clone https://github.com/kelseyefoster/voice-agent-livekit-universal-3-pro
 cd voice-agent-livekit-universal-3-pro
 
 python -m venv .venv && source .venv/bin/activate
