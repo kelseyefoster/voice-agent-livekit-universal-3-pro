@@ -1,0 +1,2 @@
+livekit-agents[assemblyai,openai,cartesia,silero,turn-detector]>=1.0.0
+python-dotenv>=1.0
